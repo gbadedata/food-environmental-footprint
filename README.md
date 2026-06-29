@@ -93,4 +93,4 @@ Project 1 asked *how much* and *what mix*; Project 2 asks *where the impact come
 
 ---
 
-*Data: Poore & Nemecek (2018), Science, via a public GitHub mirror of the Kaggle release. Built as a portfolio project.*
+*Data: Poore & Nemecek (2018), Science, via a public GitHub mirror of the Kaggle release.*
